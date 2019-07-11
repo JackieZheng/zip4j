@@ -69,7 +69,7 @@ once again, and makes me support Zip4j as much as I can.
 
 ~~~~
 dependencies {
-implementation 'net.lingala.zip4j:zip4j:2.1.0'
+    implementation 'net.lingala.zip4j:zip4j:2.1.0'
 }
 ~~~~
 
