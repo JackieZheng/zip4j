@@ -61,8 +61,16 @@ once again, and makes me support Zip4j as much as I can.
 <dependency>
     <groupId>net.lingala.zip4j</groupId>
     <artifactId>zip4j</artifactId>
-    <version>2.0.3</version>
+    <version>2.1.0</version>
 </dependency>
+~~~~
+
+## Gradle
+
+~~~~
+dependencies {
+implementation 'net.lingala.zip4j:zip4j:2.1.0'
+}
 ~~~~
 
 Please check the latest version number on [Zip4j's Maven repository][6]
